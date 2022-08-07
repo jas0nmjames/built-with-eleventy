@@ -1,0 +1,23 @@
+{
+  "name": "built-with-eleventy",
+  "version": "1.0.0",
+  "description": "A personal and portfolio site built with eleventy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jas0nmjames/built-with-eleventy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jas0nmjames/built-with-eleventy/issues"
+  },
+  "homepage": "https://github.com/jas0nmjames/built-with-eleventy#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
